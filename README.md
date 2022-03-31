@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreasuppressa
-- 👀 I’m interested in anything absurd
-- 🌱 I’m currently learning anything
-- 💞️ I’m looking to collaborate with all
+- 👀 I'm interested in anything that is absurd
+- 🌱 I’m currently learning everything
+- 💞️ I’m looking to cooperate with any person
 - 📫 a.suppressa@lektor.it
 
 <!---
